@@ -29,6 +29,19 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
-    }
+    },
+    {
+          id: 657495975,
+          title: "Cat grooming",
+          category: "Cat services",
+          description: "Get your cat groomed for free",
+          location: "Meow York",
+          date: "16 June 2022",
+          time: "18:00",
+          petsAllowed: true,
+          organiser: "Cat Laydee",
+        }
   ]
 }
+
+
